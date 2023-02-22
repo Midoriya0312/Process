@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+.wrapper{
+    width: 1300px;
+    margin: 0 auto;
+    border: 1px solid;
+}
+.title{
+    text-align: center;
+}   
+.title h1{
+    margin-top: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aqua;
+}
+.image{
+    text-align: center;
+}
+img{
+    border-radius: 50px;
+    display: none;
+}
+p{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 30px;
+}
